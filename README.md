@@ -1,4 +1,4 @@
-# flutter_grocery
+# flutter_shop_app
 
 A new Flutter application.
 
